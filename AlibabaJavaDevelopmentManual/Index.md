@@ -29,7 +29,7 @@
 [编码规范考试认证](https://edu.aliyun.com/certification/cldt02)
 ## 一、 编程规约   
 ###     (一) 命名风格           
-####        代码：[链接](C:\rj\git\AlibabaPress\AlibabaJavaDevelopmentManual\Codes)  
+####        代码：[链接](https://github.com/finersoft/AlibabaPress/tree/master/AlibabaJavaDevelopmentManual/Codes/Ch01)  
 ###     (二) 常量定义    
 ###     (三) 代码格式   
 ###     (四) OOP 规约   
