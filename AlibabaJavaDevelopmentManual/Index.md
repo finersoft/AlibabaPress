@@ -5,8 +5,12 @@
 ## 插件安装
 [IDE插件下载](https://github.com/alibaba/p3c?spm=a2c4e.11153940.blogcont69327.9.5bad2b13oxkxZE)
 ### 下载JDK
+[JDK下载地址,我下载的JDK 8 ](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 ### 下载Eclipse
+[Eclipse下载地址](http://www.eclipse.org/downloads/)
+[压缩版的Eclipse下载](http://www.eclipse.org/downloads/eclipse-packages/)
 ### 在Eclipse中安装阿里巴巴插件
+
 ### 在Eclipse中验证代码规范
 ## 考试地址
 [编码规范考试认证](https://edu.aliyun.com/certification/cldt02)
