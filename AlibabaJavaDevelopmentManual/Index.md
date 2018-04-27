@@ -3,7 +3,7 @@
 [【Java编码规范】《阿里巴巴Java开发手册（纪念版）》更新，认证考试+IDE插件助你码出质量
 ](https://yq.aliyun.com/articles/69327?spm=5176.10695662.1996646101.searchclickresult.4059131ckdqOp4)  
 ## 插件安装  
-[IDE插件下载](https://github.com/alibaba/  p3c?spm=a2c4e.11153940.blogcont69327.9.5bad2b13oxkxZE)  
+[IDE插件下载](https://github.com/alibaba/p3c?spm=a2c4e.11153940.blogcont69327.9.5bad2b13oxkxZE)  
 ### 下载JDK  
 [JDK下载地址,我下载的JDK8](http://www.oracle.com/technetwork/java/javase/downloads/index.html)  
 ### 下载Eclipse  
